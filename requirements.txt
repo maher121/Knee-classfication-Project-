@@ -1,0 +1,23 @@
+numpy
+pandas
+scipy
+scikit-learn
+imbalanced-learn
+scikit-image
+opencv-python
+Pillow
+matplotlib
+seaborn
+tqdm
+joblib
+xgboost
+lightgbm
+catboost
+jupyter
+ipykernel
+
+# Optional deep-learning and YOLO feature extraction dependencies.
+tensorflow
+torch
+torchvision
+ultralytics
