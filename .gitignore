@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+__pycache__/
+.vscode/
+*.pkl
+*.pt
+*.npy
+*.xlsx
+*.csv
+Knee-classfication-Project--1/
+Knee-classfication-Project-/
+New folder/
